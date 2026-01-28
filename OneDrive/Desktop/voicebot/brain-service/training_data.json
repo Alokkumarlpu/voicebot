@@ -1,0 +1,171 @@
+{
+  "training_examples": [
+    {
+      "text": "I want to swap my shift",
+      "intent": "swap_history",
+      "language": "en"
+    },
+    {
+      "text": "Can I swap shifts with someone?",
+      "intent": "swap_history",
+      "language": "en"
+    },
+    {
+      "text": "Show me my swap history",
+      "intent": "swap_history",
+      "language": "en"
+    },
+    {
+      "text": "मुझे शिफ्ट स्वैप करना है",
+      "intent": "swap_history",
+      "language": "hi"
+    },
+    {
+      "text": "My swap requests",
+      "intent": "swap_history",
+      "language": "en"
+    },
+    {
+      "text": "Where is the nearest charging station?",
+      "intent": "station_lookup",
+      "language": "en"
+    },
+    {
+      "text": "Find me a battery station",
+      "intent": "station_lookup",
+      "language": "en"
+    },
+    {
+      "text": "Show available stations",
+      "intent": "station_lookup",
+      "language": "en"
+    },
+    {
+      "text": "nearest charging point",
+      "intent": "station_lookup",
+      "language": "en"
+    },
+    {
+      "text": "स्टेशन कहाँ है?",
+      "intent": "station_lookup",
+      "language": "hi"
+    },
+    {
+      "text": "What is my subscription plan?",
+      "intent": "plan_info",
+      "language": "en"
+    },
+    {
+      "text": "Tell me about plans",
+      "intent": "plan_info",
+      "language": "en"
+    },
+    {
+      "text": "What are the premium benefits?",
+      "intent": "plan_info",
+      "language": "en"
+    },
+    {
+      "text": "My plan details",
+      "intent": "plan_info",
+      "language": "en"
+    },
+    {
+      "text": "मेरी प्लान क्या है?",
+      "intent": "plan_info",
+      "language": "hi"
+    },
+    {
+      "text": "I want to take leave",
+      "intent": "leave_info",
+      "language": "en"
+    },
+    {
+      "text": "How to apply for leave?",
+      "intent": "leave_info",
+      "language": "en"
+    },
+    {
+      "text": "Leave application process",
+      "intent": "leave_info",
+      "language": "en"
+    },
+    {
+      "text": "Where is DSK?",
+      "intent": "leave_info",
+      "language": "en"
+    },
+    {
+      "text": "मुझे छुट्टी लेनी है",
+      "intent": "leave_info",
+      "language": "hi"
+    },
+    {
+      "text": "What is my bill amount?",
+      "intent": "billing",
+      "language": "en"
+    },
+    {
+      "text": "Show my invoices",
+      "intent": "billing",
+      "language": "en"
+    },
+    {
+      "text": "Pending payments",
+      "intent": "billing",
+      "language": "en"
+    },
+    {
+      "text": "My billing details",
+      "intent": "billing",
+      "language": "en"
+    },
+    {
+      "text": "मेरे पेमेंट की जानकारी",
+      "intent": "billing",
+      "language": "hi"
+    }
+  ],
+  "sentiment_examples": [
+    {
+      "text": "I love this service! It's amazing!",
+      "sentiment": 1.0,
+      "emotion": "very_positive"
+    },
+    {
+      "text": "Great job! Very helpful!",
+      "sentiment": 0.8,
+      "emotion": "positive"
+    },
+    {
+      "text": "It's okay, nothing special",
+      "sentiment": 0.0,
+      "emotion": "neutral"
+    },
+    {
+      "text": "Not happy with this",
+      "sentiment": -0.6,
+      "emotion": "negative"
+    },
+    {
+      "text": "This is terrible! Worst experience ever!",
+      "sentiment": -1.0,
+      "emotion": "very_negative"
+    },
+    {
+      "text": "बहुत अच्छा! शानदार सेवा!",
+      "sentiment": 1.0,
+      "emotion": "very_positive"
+    },
+    {
+      "text": "बिल्कुल ठीक है",
+      "sentiment": 0.0,
+      "emotion": "neutral"
+    },
+    {
+      "text": "यह बहुत बुरा है!",
+      "sentiment": -0.8,
+      "emotion": "negative"
+    }
+  ]
+}
